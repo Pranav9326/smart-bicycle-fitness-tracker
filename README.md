@@ -149,6 +149,3 @@ smart-bicycle-fitness-tracker/
 
 ---
 
-## License
-
-Academic project — IIT Madras, ME2400 (2025–26). Not licensed for commercial use.
